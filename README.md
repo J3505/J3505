@@ -1,5 +1,7 @@
 ## Hi there  🐱‍👤.
-![Predator anime épico]([https://res.cloudinary.com/tu_usuario/image/upload/vfecha/nombre_de_tu_imagen.png](https://res.cloudinary.com/dsadfgmfn/image/upload/v1750906389/ChatGPT_Image_25_jun_2025_09_50_53_p.m._ssoupo.png))
+
+![Predator anime épico](https://res.cloudinary.com/dsadfgmfn/image/upload/v1750906389/ChatGPT_Image_25_jun_2025_09_50_53_p.m._ssoupo.png)
+
 
 <!--
 **J3505/J3505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
