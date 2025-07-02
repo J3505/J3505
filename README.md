@@ -1,4 +1,4 @@
-## Hi, My name is Alon  🐱‍👤.
+## Hi, My name is Alon 🐱‍👤.
 
 ![Predator anime épico](https://res.cloudinary.com/dsadfgmfn/image/upload/v1750906389/ChatGPT_Image_25_jun_2025_09_50_53_p.m._ssoupo.png)
 
