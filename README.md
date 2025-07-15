@@ -1,4 +1,4 @@
-## Hello, My name is Alon Stark 🐱‍👤.
+## Hi, My name is Alon Stark 🐱‍👤.
 
 
 
