@@ -1,8 +1,4 @@
 ## Hi, My name is Alon Stark 🐱‍👤.
-
-
-
-
 <!--
 **J3505/J3505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
