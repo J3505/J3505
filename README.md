@@ -36,7 +36,8 @@
 <td>
 
 <img src="https://res.cloudinary.com/dsadfgmfn/image/upload/v1750906389/ChatGPT_Image_25_jun_2025_09_50_53_p.m._ssoupo.png" alt="Image by 前髪" width="350" />
-
+<br>
+<div class="">7 de noviembre de 2025</div>
 </td>
 </tr>
 </table>
