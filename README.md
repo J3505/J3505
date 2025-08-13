@@ -27,6 +27,7 @@
   <a href="https://res.cloudinary.com/dsadfgmfn/image/upload/v1750906389/ChatGPT_Image_25_jun_2025_09_50_53_p.m._ssoupo.png">Image by 前髪</a>
 </div>
 
+*Credit:* [zillastar](https://res.cloudinary.com/dsadfgmfn/image/upload/v1750906389/ChatGPT_Image_25_jun_2025_09_50_53_p.m._ssoupo.png)  
 ---
 
 *Last Edited on:* 12/08/2025
