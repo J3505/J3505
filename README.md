@@ -24,7 +24,7 @@
 ---
 
 <div align="right">
-  <a href="https://res.cloudinary.com/dsadfgmfn/image/upload/v1750906389/ChatGPT_Image_25_jun_2025_09_50_53_p.m._ssoupo.png">Image by 前髪</a>
+  <img src="https://res.cloudinary.com/dsadfgmfn/image/upload/v1750906389/ChatGPT_Image_25_jun_2025_09_50_53_p.m._ssoupo.png" alt="Image by 前髪" width="300" />
 </div>
 
 *Credit:* [zillastar](https://res.cloudinary.com/dsadfgmfn/image/upload/v1750906389/ChatGPT_Image_25_jun_2025_09_50_53_p.m._ssoupo.png)  
