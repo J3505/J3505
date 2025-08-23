@@ -2,7 +2,7 @@
 <tr>
 <td>
 # Hi, My name is Alon Stark 🐱‍👤
-
+  
 ## / about me /
 - ⭐ Currently working on **web development**
 - 💀 Mostly working on **private repositories**
@@ -36,6 +36,7 @@
 </td>
 </tr>
 </table>
+
 
 ---
 *Last Edited on:* 21/08/2025
