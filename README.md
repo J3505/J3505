@@ -6,12 +6,12 @@
     
 
   
-## / about me /
+## / About me /
 - ⭐ Currently working on **web development**
 - 💀 Mostly working on **private repositories**
 - 👾 A **student** navigating the tech world
 
-## / current skills /
+## / Current skills /
 
 ### 💻 Languages
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
