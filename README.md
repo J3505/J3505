@@ -3,8 +3,6 @@
 <td>
   
 # Hi, My name is Alon Stark 🐱‍👤
-    
-
   
 ## / About me /
 - ⭐ Currently working on **web development**
