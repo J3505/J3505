@@ -8,7 +8,6 @@
 - ⭐ Currently working on **web development**
 - 💀 Mostly working on **private repositories**
 - 👾 A **student** navigating the tech world
-- 
 
 ## / Current skills /
 
