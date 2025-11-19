@@ -35,10 +35,7 @@
 <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 
 </td>
-<td>
 
-<img src="https://res.cloudinary.com/dsadfgmfn/image/upload/v1755656963/7ce9e87d7d3fce542ad893bc9ff8ca71_cliirh.jpg" alt="Image by 前髪" width="500" />
-</td>
 </tr>
 </table>
 
