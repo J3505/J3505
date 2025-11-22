@@ -28,7 +28,6 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
 
-
 ### 🎨 Designing Tools
 <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 
@@ -36,9 +35,6 @@
 
 </tr>
 </table>
-
-
-
 
 ---
 *Last Edited on:* 21/08/2025
