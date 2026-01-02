@@ -9,9 +9,6 @@
 - 💀 Mostly working on **private repositories**
 - 👾 A **student** navigating the tech world
 
-
-
-
 ## / Current skills /
 
 ### 💻 Languages
@@ -19,6 +16,10 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+
+
+
+
 
 ### 🛠 Frameworks & Libraries
 <img src="https://img.shields.io/badge/Angular%2020-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
