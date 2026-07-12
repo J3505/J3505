@@ -24,8 +24,12 @@
 
 
 <img src="https://img.shields.io/badge/Java 17-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java 17" />
+
+
 <br>
 <img src="https://img.shields.io/badge/Java 21-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java 21" />
+
+
 
 
 ### 🛠 Frameworks & Libraries
