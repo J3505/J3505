@@ -2,7 +2,7 @@
 <tr>
 <td>
 
-# Hi, My name is Alon Stark 🐱‍👤
+# Hi, My name is Alon Stark
 
 ## / About me /
 - ⭐ Currently working on **web development**
